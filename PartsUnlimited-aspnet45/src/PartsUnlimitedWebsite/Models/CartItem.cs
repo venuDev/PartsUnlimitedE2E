@@ -6,6 +6,7 @@ namespace PartsUnlimited.Models
     public class CartItem : ILineItem
     {
         // My first git comment
+        // My Second Change to log git commit
         [Key]
         public int CartItemId { get; set; }
 
